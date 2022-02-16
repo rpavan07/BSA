@@ -10,10 +10,13 @@ The application of remote sensing are widely used. Several spectral indices have
 normalised difference built-up index (NDBI), normalised difference water index (NDWI), leaf area index (LAI), normalised difference soil index (NDSI), 
 land surface temperature (LST) and/or using the combination of different indices. 
 
-In this, I used normalised difference vegetation index (NDVI), to check the impact of COVID-19 on Land Use/Land Cover in parts of India.
+In this study, I used normalised difference vegetation index (NDVI), to check the impact of COVID-19 on Land Use/Land Cover in parts of India.
 
 ## Study Area
 Used three locations. 
 - Hyderabad
 - Gir National Park
 - Sundarbans
+
+## Data Source
+In this study, the satellite images for the assessment were derived from the United States Geological Survey (USGS) (https://earthexplorer.usgs.gov/)
