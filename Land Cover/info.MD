@@ -41,3 +41,10 @@ Urban environment areas in developing countries have increased rapidly in the pa
 In this context, the outbreak of the COVID-19 pandemic provided us with a golden opportunity to identify the impact of human activities. The strict restrictions on 
 human mobility, and the closure of industrial activities and other productive activities, resulted in a reduction in pressures on the environment. Thus, the lockdown 
 due to COVID-19 improved environmental quality.
+
+
+## Referencs
+- Data Source --> United States Geological Survey (USGS) (https://earthexplorer.usgs.gov/)
+- https://www.mdpi.com/2072-4292/13/21/4395/htm
+- https://github.com/dhritirajsen/code_for_climate (Idea for using NDVI from here)
+- https://github.com/sander-ali/Land_Cover_Classification_Random_Forest (Idea for k-means from here)
