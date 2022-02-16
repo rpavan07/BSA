@@ -1,4 +1,4 @@
-### Change in Land Cover Due to COVID-19 in parts of India.
+## Change in Land Cover Due to COVID-19 in parts of India.
 
 In recent decades, rapid urban expansion and population growth have dramatically impacted ecosystems, 
 increasing land degradation and reducing human wellbeing. One of the most visible impacts of urban expansion 
@@ -12,4 +12,8 @@ land surface temperature (LST) and/or using the combination of different indices
 
 In this, I used normalised difference vegetation index (NDVI), to check the impact of COVID-19 on Land Use/Land Cover in parts of India.
 
-### Study Area
+## Study Area
+Used three locations. 
+- Hyderabad
+- Gir National Park
+- Sundarbans
