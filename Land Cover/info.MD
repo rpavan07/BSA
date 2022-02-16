@@ -11,3 +11,5 @@ normalised difference built-up index (NDBI), normalised difference water index (
 land surface temperature (LST) and/or using the combination of different indices. 
 
 In this, I used normalised difference vegetation index (NDVI), to check the impact of COVID-19 on Land Use/Land Cover in parts of India.
+
+#Study Area
