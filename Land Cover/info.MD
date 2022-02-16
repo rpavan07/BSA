@@ -29,4 +29,15 @@ the Sundarbans, which was used by one of the major references I got ideas from.
 ![download](https://user-images.githubusercontent.com/60320421/154220284-d6b3d3f9-5504-4780-bddd-e674d92dfa96.png)
 
 
-As you can see, 
+As you can see, there has been a slight change in Land Cover/Land Use for the good. 
+
+## Limitations
+This study attempted to understand the impact of the COVID-19 lockdown on the environment. This study assessed the impact of lockdown in 2020 and 2019 during the 
+same periods of lockdown phases. Thus, in future studies, the long-term impact of COVID-19 amid lockdown must be considered. And, a total of twelve satellite images (six for each year) from two phases of lockdown were used. These images may not be representative of the lockdown phases. Therefore, more images should be taken into consideration
+for a better analysis.
+
+## Conclusion
+Urban environment areas in developing countries have increased rapidly in the past few decades. Human activities have increased negative environmental impacts.
+In this context, the outbreak of the COVID-19 pandemic provided us with a golden opportunity to identify the impact of human activities. The strict restrictions on 
+human mobility, and the closure of industrial activities and other productive activities, resulted in a reduction in pressures on the environment. Thus, the lockdown 
+due to COVID-19 improved environmental quality.
