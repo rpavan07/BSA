@@ -43,7 +43,7 @@ human mobility, and the closure of industrial activities and other productive ac
 due to COVID-19 improved environmental quality.
 
 
-## Referencs
+## References
 - Data Source --> United States Geological Survey (USGS) (https://earthexplorer.usgs.gov/)
 - https://www.mdpi.com/2072-4292/13/21/4395/htm
 - https://github.com/dhritirajsen/code_for_climate (Idea for using NDVI from here)
