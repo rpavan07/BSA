@@ -26,5 +26,7 @@ Landsat 8 OLI (Operational Land Imager) images were selected in 2019 and 2020 du
 The reason for three locations were because I couldn't get satisfactory results for the first two locations (Hyderabad, Gir National Park). And then, I used
 the Sundarbans, which was used by one of the major references I got ideas from.   
 
-![download (3)](https://user-images.githubusercontent.com/60320421/154218222-605c4ba4-5b01-48ce-bfcf-eb7e31855292.png)
+![download](https://user-images.githubusercontent.com/60320421/154220284-d6b3d3f9-5504-4780-bddd-e674d92dfa96.png)
+
+
 As you can see, 
