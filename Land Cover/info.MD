@@ -19,4 +19,12 @@ Used three locations.
 - Sundarbans
 
 ## Data Source
-In this study, the satellite images for the assessment were derived from the United States Geological Survey (USGS) (https://earthexplorer.usgs.gov/)
+In this study, the satellite images for the assessment were derived from the United States Geological Survey (USGS) (https://earthexplorer.usgs.gov/).
+Landsat 8 OLI (Operational Land Imager) images were selected in 2019 and 2020 during the different phases of lockdown (pre lockdown and post lockdown).
+
+## Results
+The reason for three locations were because I couldn't get satisfactory results for the first two locations (Hyderabad, Gir National Park). And then, I used
+the Sundarbans, which was used by one of the major references I got ideas from.   
+
+![download (3)](https://user-images.githubusercontent.com/60320421/154218222-605c4ba4-5b01-48ce-bfcf-eb7e31855292.png)
+As you can see, 
